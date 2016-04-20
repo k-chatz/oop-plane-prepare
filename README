@@ -1,0 +1,16 @@
+*Author::Costas Chatzopoulos
+*AM:1115201300202
+*
+*Compile command:
+*
+
+javac ./plane/*.java ./plane/planeComponent/*.java ./plane/planeComponent/compartment/*.java ./plane/planeComponent/compartment/privateCompartment/*.java
+javac ./employee/*.java ./employee/type/*.java
+
+*
+*Run command:
+*
+
+java plane.main
+
+*
